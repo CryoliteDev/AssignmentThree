@@ -25,6 +25,8 @@ This will give you an output that contains the move titles and the year they wer
 2. Ivan Vasilievich: Back to the Future (Ivan Vasilievich menyaet professiyu) (1973) AND Hulk (2003)
 3. Toy Story (1995) AND WALL·E (2008)
 
+Sample of the output is provided in in: `src/output.txt`
+
 
 ## Folder Structure
 
